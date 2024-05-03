@@ -7,6 +7,7 @@ This is a simple command-line quiz application built using TypeScript. It quizze
 
 - [Features](#features)
 - [Usage](#npmusage)
+- [linkedin account](#linkedinaccount)
 - [Technology used](#Technologyused💻)
 - [License](#license)
 
@@ -25,8 +26,8 @@ if you would like to execute it via command line interface, use the npx command 
 <h2>Technology used💻</h2>
 <p>With the aid of <b>Node.js,TypeScript</b>  I have created this application. <b> "npm packages"</b> For the look, I utilized <b>chalk</b> and <b>inquirer</b> to make my application dynamic.</p>
 
-<h2> linkedin account </h2>
-TOcheck the output of this application visit my linkedin post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7192067222633078784/">click</a>
+<h2> linkedin account🔗 </h2>
+TO check the output of this application visit my linkedin post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7192067222633078784/">click</a>
 <h2>license</h2>
 <p>This project is licensed under the <b>ISC</b> License </p>
 <h2>I'm grateful that you checked my repository😍 </h2>
